@@ -1,7 +1,6 @@
-# FPF-Quest-o-09
+# (FPF-Questao-09) Documentação para Configuração e Execução dos Testes
 
-Documentação para Configuração e Execução dos Testes
-Os passos a seguir detalham os pré-requisitos, a configuração necessária, e o processo de execução dos testes automatizados para verificar o comportamento do aplicativo "Triângulo" disponível em http://www.vanilton.net/triangulo/.
+Os passos a seguir são  os pré-requisitos, a configuração necessária, e o processo de execução dos testes automatizados para verificar o comportamento do aplicativo "Triângulo" disponível em http://www.vanilton.net/triangulo/.
 ________________________________________
 1. Pré-requisitos
 Certifique-se de que seu ambiente de desenvolvimento está configurado com as seguintes ferramentas e dependências:
